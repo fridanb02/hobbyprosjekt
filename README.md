@@ -1,2 +1,0 @@
-# hobbyprosjekt
-test
